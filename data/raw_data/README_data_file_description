@@ -1,0 +1,26 @@
+Brief description of all raw data files as described in the data repository they were sourced from. The relevant page on the Dryad data repository can be accessed at:
+https://datadryad.org/dataset/doi:10.5061/dryad.7q7k1#usage
+
+cal_ark_data.rds -
+Arkansas 2016 and California 2014-15 R object
+R object for Arkansas 2016 and California 2014-2015 Seasons in "tidy" format. That is, each variable is a column and each row corresponds to a single observation. This can be used directly with the R scripts in the github repo: https://github.com/bulksoil/LifeCycleManuscript
+
+cal_2016.rds -
+California 2016 R object.
+R object containing the data for the California 2016 season in "tidy" format.
+
+lc_study_otu_table.tsv.gz -
+OTU Table Clustered at 97% for all samples
+A gzipped tab separated file. The OTU identifiers are in the column 'OTUID'. This is a matrix where each row represents one OTU and each column represents one sample (corresponding to "SampleID" in the mapping file). The data can be unzipped in the UNIX/LINUX terminal using the command 'gunzip lc_study_otu_table.tsv.gz'
+
+lc_study_mapping_file.tsv -
+Sample Metadata
+A tab separated file with information about the samples in the OTU table.
+
+gg_otus_tax.rds -
+R object containing taxonomic information for each OTU
+This is an R object (.rds file) containing the taxonomic information for all possible OTUs detected in this dataset. These are the GreenGenes 13_8 97% reference OTUs.
+
+organelle.rds -
+Organellar OTUs
+R object (.rds file) containing all of the detected mitochondrial and plastid OTUs from the Greengenes 13_8 reference database.
