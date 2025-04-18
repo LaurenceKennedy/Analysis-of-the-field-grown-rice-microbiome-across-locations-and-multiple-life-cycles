@@ -1,5 +1,22 @@
-Brief description of all raw data files as described in the data repository they were sourced from. The relevant page on the Dryad data repository can be accessed at:
+Data origin and availability:
+
+All data was sourced from the Dryad data repository and can be accessed at:
 https://datadryad.org/dataset/doi:10.5061/dryad.7q7k1#usage
+
+The data was collected for and described in a study by Edwards et al. published in 2018 -
+'Compositional shifts in root-associated bacterial and archaeal microbiota track the plant life cycle in field-grown rice'
+Available at: https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.2003862&type=printable
+This publication is the best source for all methodological information relating to the data collection process.
+
+The data was made available as a part of public domain in 2017/2018.
+It can also be accessed at: https://github.com/bulksoil/LifeCycleManuscript
+
+
+
+Description of data files:
+
+A more detailed description of each file can be located in the same folder as each individual data file. 
+The information provided below is a brief description of all raw data files taken directly from the Dryad data repository they were sourced from: 
 
 cal_ark_data.rds -
 Arkansas 2016 and California 2014-15 R object

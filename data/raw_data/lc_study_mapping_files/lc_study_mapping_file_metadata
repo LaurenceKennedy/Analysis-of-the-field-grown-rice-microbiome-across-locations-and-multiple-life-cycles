@@ -1,0 +1,5 @@
+Additional sample data that is relevant to the content in the 'lc_study_otu_table.tsv' file.
+This file includes 16 columns of 'variables' with 1512 rows of data.
+
+Column headings include:
+"SampleID",	"Barcode", "Timepoint", "Date", "Age", "Compartment", "Plot", "Lane", "Rep", "Cultivar", "State", "Site", "Season", "OriginalDepth", "FilteredDepth", "FinalDepth"

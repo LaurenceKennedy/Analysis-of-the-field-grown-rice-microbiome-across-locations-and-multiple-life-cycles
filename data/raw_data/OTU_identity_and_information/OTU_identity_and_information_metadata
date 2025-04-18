@@ -1,0 +1,13 @@
+organelle.rds lists the mitochondrial and plastid OTUs detected in this study.
+It consists of one column with no header and 883 rows of OTU identities.
+It is unlikely that this file will be relevant to, or used in this study.
+
+
+
+gg_otus_tax  contains taxonomic data related to all bacteria and archaea OTU's detected in this study.
+There are 9 columns of 'variables' with 99322 rows of data.
+
+Column headings include:
+"Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species", "variable", "Phylum2"
+
+The furthermost left column is unnamed and lists the OTU values recorded through the study.

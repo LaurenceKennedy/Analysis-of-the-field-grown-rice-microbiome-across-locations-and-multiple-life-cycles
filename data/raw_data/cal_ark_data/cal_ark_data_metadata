@@ -1,0 +1,5 @@
+Sample data from the California site (collected in 2014 and 2015) and Arkansas site (collected in 2016).
+This file includes 17 columns of 'variables' with 11350506 rows of data.
+
+Column headings include:
+"SampleID", "Compartment", "Plot”, "Cultivar", "Site", "State", "Date", "Age", "Season", "Genotype", "Stage", "Depth", "variable", "Collector", "value, "RA, "MiSeqRun" 

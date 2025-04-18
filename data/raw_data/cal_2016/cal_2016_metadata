@@ -1,0 +1,5 @@
+Sample data from the California site that was collected in 2016.
+This file includes 15 columns of 'variables' with 5108817 rows of data. 
+
+Column headings include:
+SampleID", "Compartment", "Plot", "Site", "Barcode", "Timepoint", "Season", "Day_After_Germination" "Genotype", "Stage", "Collector", "Depth", "variable", "value", "RA"         
